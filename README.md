@@ -6,7 +6,7 @@ Conexión de un Frontend con el backend para el manejo de un sistema de veterina
 
 ## Autor
 
-- [@Paulesh5](https://www.github.com/Paulesh5)
+- [@IsmaelNovillo](https://www.github.com/IsmaelNovillo)
 
 ## Capturas
 
